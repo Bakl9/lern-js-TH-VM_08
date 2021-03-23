@@ -14,3 +14,19 @@ if (carAge < 5 ) {
 } else {
     console.log ('Возраст ' + carName + ' Равняется '+ carAge+ ' годам')
 }
+
+let name = ''
+
+if (name) {
+    console.log(true)
+} else {
+    console.log(false)
+};
+
+let name = 'Alex'
+
+if (name) {
+    console.log(true)
+} else {
+    console.log(false)
+};
