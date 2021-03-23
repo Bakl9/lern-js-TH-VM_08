@@ -30,3 +30,5 @@ if (name) {
 } else {
     console.log(false)
 };
+
+0 null undefined '' Nan = false 
